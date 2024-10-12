@@ -1,1 +1,2 @@
 # Turtle-Race-Game
+In the Turtle Race Game, the player first selects a color corresponding to one of the six participating turtles. After the color is chosen, the race begins, where each turtle moves at a random speed using Python's random module. The turtles advance toward the finish line, and the one to cross it first is declared the winner. The randomness in speed makes the outcome unpredictable, adding excitement to the game. At the end, the player finds out whether their selected turtle won the race!
